@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteApp(firebase test)</string>
+    <string name="insert_data_test">Insert Data Test</string>
+    <string name="set_data_test">Set Data Test</string>
+</resources>
